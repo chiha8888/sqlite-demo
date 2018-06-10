@@ -1,0 +1,20 @@
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\sqlite demo.exe.config
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\sqlite demo.exe
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\sqlite demo.pdb
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\EntityFramework.dll
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\System.Data.SQLite.dll
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\EntityFramework.xml
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\System.Data.SQLite.xml
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite demo.csprojAssemblyReference.cache
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite_demo.Form1.resources
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite_demo.Properties.Resources.resources
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite demo.csproj.GenerateResource.cache
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite demo.csproj.CoreCompileInputs.cache
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite demo.csproj.CopyComplete
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite demo.exe
+C:\Users\吳承翰\source\repos\sqlite demo\sqlite demo\obj\Debug\sqlite demo.pdb
